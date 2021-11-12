@@ -7,7 +7,7 @@ It will run forever until you close it :)<br>
 
 Java version : 8 <br>
 IDE: Intellij IDEA <br>
-JAR version: 0.7.4<br>
+JAR version: 1.0.0<br>
 
 Concepts used: <br>
   --Inheritance  (via classes Shape, Rectriangle and Circle)<br>
