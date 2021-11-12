@@ -13,7 +13,7 @@ Concepts used: <br>
   --Inheritance  (via classes Shape, Rectriangle and Circle)<br>
   --Polymorphism (via class Rectriangle(Overloading))<br>
   --File reading (in class Main, when setting title of a window)<br>
-  --Canvas and timeline<br>
+  --JavaFX canvas and timeline<br>
 
 There is some screenshots:<br>
 ![Screenshot1](https://github.com/Sakubek1337/stopwatch/blob/main/screenshots/screenshot1.PNG)<br>
