@@ -18,7 +18,7 @@ public class Main extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         StringBuilder str = new StringBuilder();
         try {
-            InputStream input = Main.class.getResourceAsStream("values.txt");
+            InputStream input = Main.class.getResourceAsStream("title.txt");
             BufferedReader flr = new BufferedReader(new InputStreamReader(input));
             int data = flr.read();
             while (data != -1){
